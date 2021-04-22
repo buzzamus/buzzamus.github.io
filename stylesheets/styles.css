@@ -1,0 +1,165 @@
+.navbar-default{
+	background-color: #20d6ab;
+} 
+
+.jumbotron {
+  background-size: cover;
+  background-image: url("../images/sun.JPG");
+}
+
+.text-border {
+	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.mother {
+  overflow-x: hidden;
+  margin-bottom: 20px;
+}
+
+body {
+  background: black;
+}
+
+html, body {
+  overflow-x: hidden;
+}
+
+h2, h3, h4, h5, h6, p, label, ul {
+  color: white;
+  font-family: "Courier New";
+}
+
+h1 {
+  color: white;
+  font-family: Courier;
+}
+
+.white {
+  color: white;
+}
+
+.black {
+	color: black;
+}
+
+.glyphicon-xl {
+  font-size: 2em;
+}
+
+.center {
+  text-align: center;
+}
+
+.red {
+  color: #FF4571;
+}
+
+.orange {
+  color: #d66611;
+}
+
+.btn-orange {
+  background-color: #d66611;
+  color: white;
+  margin-right: 10px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.btn-orange:hover {
+  background-color: #5E5E5E;
+  color: #20d6ab;
+}
+
+.btn-green {
+  background-color: #20d6ab;
+  color: white;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.btn-green:hover {
+  background-color: #5E5E5E;
+  color: #d66611;
+}
+
+.about-text {
+  width: 90%;
+  margin-left: 5%;
+  border-left: 2px solid #20d6ab;
+  border-right: 2px solid #20d6ab;
+}
+
+.side-pic {
+  background-size: cover;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  background-color: #20d6ab;
+  border: 2px solid white;
+  border-radius: 20px;
+}
+
+.right-panel {
+  text-align: center;
+  border: 2px solid white;
+  border-radius: 20px;
+  margin-top: 15px;
+  background-color: #d66611;
+}
+
+.img-me {
+	margin-bottom: 15px;
+}
+
+.top-pad {
+  margin-top: 300px;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.left-marg {
+  margin-left: 20px;
+}
+
+.dark-text {
+  color: black;
+}
+
+.nav-top-marg {
+	margin-top: 6px;
+}
+
+.top-marg {
+	margin-top: 20px;
+}
+
+.img-dubs {
+	margin-top: 10px;
+	height: 350px;
+	text-align: center;
+	display: inline;
+	margin-bottom: 15px;
+}
+
+.footer {
+	margin-top: 50px;
+	text-align: center;
+	max-height: 50px;
+}
+
+.underline {
+	text-decoration: underline;
+}
+
+.nav-text {
+	margin-top: 21px;
+	color: white;
+	margin-left: 5px;
+}
+
+.pic {
+  padding-left: 20px;
+  padding-top: 8px;
+}
