@@ -4,6 +4,10 @@
 
 .navbar-default-heck {
 	background-color: #800000;
+}
+
+.navbar-default-wordamid {
+	background-color: #4287f5;
 } 
 
 .jumbotron {
@@ -104,6 +108,15 @@ h1 {
 }
 
 .side-pic-heck {
+  padding-top: 15px;
+  background-size: cover;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  border: 2px solid white;
+  border-radius: 20px;
+}
+
+.side-pic-wordamid {
   padding-top: 15px;
   background-size: cover;
   margin-top: 15px;
