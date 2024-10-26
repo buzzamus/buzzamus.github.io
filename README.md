@@ -1,10 +1,10 @@
 # Brent Busby's Personal Portfolio Site
 
-#### Current: Data Platform Engineer at Liberty Mutual
+#### Current: iOS Engineer at PayPal
 
-#### Former: Software Engineer at Braintree (A PayPal Company)
+#### Former: Software Engineer at Liberty Mutual, Braintree (A PayPal Company)
 
-#### Free Time: iOS Development, Unity Game Development
+#### Free Time: iOS Development probably at a local brewery.
 
 ##### Personal Projects:
 
