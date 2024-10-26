@@ -10,6 +10,6 @@
 
 [Go To Heck mobile game](https://brentbusby.com/heck)
 
-[drinkLocally iOS project](https://www.brentbusby.com/drinklocally.html)
+[DrinkLocally iOS project](https://www.brentbusby.com/drinklocally.html)
 
 [Mock Braintree ruby gem](https://github.com/buzzamus/mock-braintree)
