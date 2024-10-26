@@ -10,6 +10,6 @@
 
 [Go To Heck mobile game](https://brentbusby.com/heck)
 
-[Federal Register API reader iOS project](https://github.com/buzzamus/Federal-Register-Data)
+[drinkLocally iOS project](https://www.brentbusby.com/drinklocally.html)
 
 [Mock Braintree ruby gem](https://github.com/buzzamus/mock-braintree)
