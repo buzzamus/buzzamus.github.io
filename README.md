@@ -4,7 +4,7 @@
 
 #### Former: Software Engineer at Liberty Mutual, Braintree (A PayPal Company)
 
-#### Free Time: playing Fortnite with my kids, watching baseball, and iOS Development (probably at a local brewery).
+#### Free Time: playing Fortnite with my kids, watching baseball, and iOS Development (probably at a local brewery while listening to Nine Inch Nails).
 
 ##### Personal Projects:
 
